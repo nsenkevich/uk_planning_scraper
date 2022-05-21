@@ -1,0 +1,233 @@
+[
+  {
+    "area_name": "Hounslow",
+    "area_type": "London Borough",
+    "scraper_type": "Thames",
+    "scraper_name": "Hounslow",
+    "planning_url": "https://planning.hounslow.gov.uk/planning_search.aspx"
+  },
+  {
+    "area_name": "Richmond",
+    "area_type": "London Borough",
+    "scraper_type": "Thames",
+    "scraper_name": "Richmond",
+    "planning_url": "https://www2.richmond.gov.uk/lbrplanning/Planning_Report.aspx"
+  },
+  {
+    "area_name": "Barking and Dagenham",
+    "area_type": "London Borough",
+    "scraper_type": "Tascomi",
+    "scraper_name": "Barking",
+    "planning_url": "https://online-befirst.lbbd.gov.uk/planning/index.html?fa=search"
+  },
+  {
+    "area_name": "Hackney",
+    "area_type": "London Borough",
+    "scraper_type": "Tascomi",
+    "scraper_name": "Hackney",
+    "planning_url": "https://planningapps.hackney.gov.uk/planning/index.html?fa=search"
+  },
+  {
+    "area_name": "Waltham Forest",
+    "area_type": "London Borough",
+    "scraper_type": "Tascomi",
+    "scraper_name": "WalthamForest",
+    "planning_url": "https://builtenvironment.walthamforest.gov.uk/planning/index.html?fa=search"
+  },
+  {
+    "area_name": "Redbridge",
+    "area_type": "London Borough",
+    "scraper_type": "SwiftLG",
+    "scraper_name": "Redbridge",
+    "planning_url": "https://planning.agileapplications.co.uk/redbridge/search-applications/"
+  },
+  {
+    "area_name": "Camden",
+    "area_type": "London Borough",
+    "scraper_type": "PlanningExplorer",
+    "scraper_name": "Camden",
+    "planning_url": "https://planningrecords.camden.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx"
+  },
+  {
+    "area_name": "Islington",
+    "area_type": "London Borough",
+    "scraper_type": "PlanningExplorer",
+    "scraper_name": "Islington",
+    "planning_url": "https://planning.islington.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx"
+  },
+  {
+    "area_name": "Merton",
+    "area_type": "London Borough",
+    "scraper_type": "PlanningExplorer",
+    "scraper_name": "Merton",
+    "planning_url": "http://planning.merton.gov.uk/Northgate/PlanningExplorerAA/GeneralSearch.aspx"
+  },
+  {
+    "area_name": "Wandsworth",
+    "area_type": "London Borough",
+    "scraper_type": "PlanningExplorer",
+    "scraper_name": "Wandsworth",
+    "planning_url": "https://planning.wandsworth.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx"
+  },
+  {
+    "area_name": "Havering",
+    "area_type": "London Borough",
+    "scraper_type": "Ocella",
+    "scraper_name": "Havering",
+    "planning_url": "https://development.havering.gov.uk/OcellaWeb/planningSearch"
+  },
+  {
+    "area_name": "Hillingdon",
+    "area_type": "London Borough",
+    "scraper_type": "Ocella",
+    "scraper_name": "Hillingdon",
+    "planning_url": "https://planning.hillingdon.gov.uk/OcellaWeb/planningSearch"
+  },
+  {
+    "area_name": "Barnet",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Barnet",
+    "planning_url": "https://publicaccess.barnet.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Bexley",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Bexley",
+    "planning_url": "https://pa.bexley.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Brent",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Brent",
+    "planning_url": "https://pa.brent.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Bromley",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Bromley",
+    "planning_url": "https://searchapplications.bromley.gov.uk/onlineapplications/search.do?action=advanced"
+  },
+  {
+    "area_name": "City",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "City",
+    "planning_url": "https://www.planning2.cityoflondon.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Croydon",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Croydon",
+    "planning_url": "https://publicaccess3.croydon.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Ealing",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Ealing",
+    "planning_url": "https://pam.ealing.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Enfield",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Enfield",
+    "planning_url": "https://planningandbuildingcontrol.enfield.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Greenwich",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Greenwich",
+    "planning_url": "https://planning.royalgreenwich.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Hammersmith and Fulham",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Hammersmith",
+    "planning_url": "https://public-access.lbhf.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Kingston",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Kingston",
+    "planning_url": "https://publicaccess.kingston.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Lambeth",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Lambeth",
+    "planning_url": "https://planning.lambeth.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Lewisham",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Lewisham",
+    "planning_url": "https://planning.lewisham.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Newham",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Newham",
+    "planning_url": "https://pa.newham.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Southwark",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Southwark",
+    "planning_url": "https://planning.southwark.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Sutton",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Sutton",
+    "planning_url": "https://planningregister.sutton.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Tower Hamlets",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "TowerHamlets",
+    "planning_url": "https://development.towerhamlets.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Westminster",
+    "area_type": "London Borough",
+    "scraper_type": "Idox",
+    "scraper_name": "Westminster",
+    "planning_url": "https://idoxpa.westminster.gov.uk/online-applications/search.do?action=advanced"
+  },
+  {
+    "area_name": "Kensington",
+    "area_type": "London Borough",
+    "scraper_type": "Custom",
+    "scraper_name": "Kensington",
+    "planning_url": "https://www.rbkc.gov.uk/Planning/searches/default.aspx"
+  },
+  {
+    "area_name": "Harrow",
+    "area_type": "London Borough",
+    "scraper_type": "CivicaJson",
+    "scraper_name": "Harrow",
+    "planning_url": "https://planningsearch.harrow.gov.uk/planning/search-applications"
+  },
+  {
+    "area_name": "Haringey",
+    "area_type": "London Borough",
+    "scraper_type": "AppSearchServ",
+    "scraper_name": "Haringey",
+    "planning_url": "http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet"
+  }
+]
